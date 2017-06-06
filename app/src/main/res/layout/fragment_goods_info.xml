@@ -13,9 +13,8 @@
         android:paddingBottom="@dimen/spacing_normal">
 
         <!--商品详情页图片切换-->
-<!--
 
-        <com.feicuiedu.eshop.base.widgets.SquareLayout
+        <com.feicuiedu.eshop_20170518.base.widgets.SquareLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -32,8 +31,7 @@
                 android:layout_gravity="bottom"
                 app:ci_drawable="@drawable/indicator_yellow_radius"
                 app:ci_drawable_unselected="@drawable/white_radius"/>
-        </com.feicuiedu.eshop.base.widgets.SquareLayout>
--->
+        </com.feicuiedu.eshop_20170518.base.widgets.SquareLayout>
 
         <RelativeLayout
             android:layout_width="match_parent"

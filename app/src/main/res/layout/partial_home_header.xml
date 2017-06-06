@@ -5,13 +5,11 @@
               android:orientation="vertical">
 
     <!--自定义轮播图控件-->
-<!--
 
-    <com.feicuiedu.eshop.base.widgets.banner.BannerLayout
+    <com.feicuiedu.eshop_20170518.base.widgets.banner.BannerLayout
         android:id="@+id/layout_banner"
         android:layout_width="match_parent"
         android:layout_height="@dimen/size_180"/>
--->
 
     <TextView
         android:id="@+id/text_promote_goods"

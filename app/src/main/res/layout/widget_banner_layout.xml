@@ -11,7 +11,6 @@
         android:background="@android:color/white"/>
 
     <!--第三方控件：圆点指示器-->
-<!--
 
     <me.relex.circleindicator.CircleIndicator
         android:id="@+id/indicator"
@@ -21,6 +20,5 @@
         android:layout_centerHorizontal="true"
         app:ci_drawable="@drawable/indicator_yellow_radius"
         app:ci_drawable_unselected="@drawable/white_radius"/>
--->
 
 </merge>
